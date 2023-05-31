@@ -1,7 +1,7 @@
 # Company_Supply_Chain-Dashboard
 Dataset is about a company's sales made from multiple departmental stores across the world with details of the sale, discount, profit, product, customer, store and location data.
 
-I would like to thank Coding Invaders for providing the dataset used in this project.
+I would like to thank Coding Invaders for providing the dataset used in this project.  https://drive.google.com/file/d/1p5AW5-ITBfIiYkIaOjWwjjThyZ5YdiUR/view
 
 
 Project Overview

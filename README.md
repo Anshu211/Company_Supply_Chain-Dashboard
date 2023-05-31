@@ -3,6 +3,8 @@ Dataset is about a company's sales made from multiple departmental stores across
 
 I would like to thank Coding Invaders for providing the dataset used in this project.  https://drive.google.com/file/d/1p5AW5-ITBfIiYkIaOjWwjjThyZ5YdiUR/view
 
+Project pdf: https://drive.google.com/file/d/1yj1UpoMHM2JkbdG-imHzFrjcb_9ZThiL/view?usp=sharing
+
 
 Project Overview
 
